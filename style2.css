@@ -429,7 +429,7 @@
 
     .additional-info p {
         text-align: center;
-        font-size: 2.8vw;
+        font-size: 3.8vmin;
         background-color: rgb(255, 255, 255);
         color: rgb(0, 0, 0);
         font-weight: bolder;
@@ -492,8 +492,6 @@
         margin-top: 20px;
         font-size: larger;
         text-align: left;
-
-
     }
 
     .heading-content li {
